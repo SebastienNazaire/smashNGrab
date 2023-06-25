@@ -1,0 +1,26 @@
+[
+  {
+    "job": "do a hit on pam by the yam store",
+    "description": "dat girl pam has it comin to her.",
+    "danger_level": "Medium",
+    "pay": "20 Credits"
+  },
+  {
+    "job": "Hiring security- I believe my wife is trying to kill me",
+    "description": "I might be paranoid but I think she is after me.",
+    "danger_level": "High",
+    "pay": "50 Credits"
+  },
+  {
+    "job": "Hiring people to kill my husband",
+    "description": "He decided to cheat on me with pam. Double the credits if you kill both.",
+    "danger_level": "low-he is weak as fuck",
+    "pay": "100 Credits"
+  },
+  {
+    "job": "Custom Jon",
+    "description": "this is a test",
+    "danger_level": "Low",
+    "pay": "3 Credits"
+  }
+]

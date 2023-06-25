@@ -1,0 +1,32 @@
+[
+  {
+    "job": "Give me 50 credits",
+    "description": "I need the credits. Willing to pay.",
+    "danger_level": "low",
+    "pay": "10 Credits"
+  },
+  {
+    "job": "Need friends yesterdays",
+    "description": "me need love.",
+    "danger_level": "low",
+    "pay": "10 Credits"
+  },
+  {
+    "job": "Need security for off-world travel to Rec 97",
+    "description": "Trying to stay low. Need security and ride to Rec 97. High reward.",
+    "danger_level": "High",
+    "pay": "3000 Credits"
+  },
+  {
+    "job": "Good crew plus fast ship to shake down kublacaine dealer",
+    "description": "Dat boy stole my kublacaine and I need dat back now.",
+    "danger_level": "high",
+    "pay": "3000 Credits"
+  },
+  {
+    "job": "Tug up on it once and I am dead",
+    "description": "no description",
+    "danger_level": "Low",
+    "pay": "5 Credits"
+  }
+]
